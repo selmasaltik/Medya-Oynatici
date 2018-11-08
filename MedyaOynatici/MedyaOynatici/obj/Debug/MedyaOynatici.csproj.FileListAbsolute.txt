@@ -1,0 +1,5 @@
+c:\users\selma saltik\desktop\visual studio 2013\Projects\MedyaOynatici\MedyaOynatici\bin\Debug\MedyaOynatici.exe.config
+c:\users\selma saltik\desktop\visual studio 2013\Projects\MedyaOynatici\MedyaOynatici\obj\Debug\MedyaOynatici.csprojResolveAssemblyReference.cache
+c:\users\selma saltik\desktop\visual studio 2013\Projects\MedyaOynatici\MedyaOynatici\obj\Debug\MedyaOynatici.Properties.Resources.resources
+c:\users\selma saltik\desktop\visual studio 2013\Projects\MedyaOynatici\MedyaOynatici\obj\Debug\MedyaOynatici.csproj.GenerateResource.Cache
+C:\Users\SELMA SALTIK\Desktop\visual studio 2013\Projects\MedyaOynatici\MedyaOynatici\obj\Debug\MedyaOynatici.frmMediaPlayer.resources
